@@ -5,7 +5,7 @@ body {
 
 h1 {
     padding: 8px;
-    background: rgba(255, 0, 0, 0.8);
+    background: cornflowerblue;
     border-radius: 8px;
     margin: 0;
     font-size: 64px;
@@ -56,7 +56,7 @@ textarea:focus {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background: rgba(0, 0, 0, 0.2) url("img/megaphone.png");
+    background: rgba(0, 0, 0, 0) url("megaphone.png");
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -65,7 +65,7 @@ textarea:focus {
 }
 
 #banner h3 {
-    background: black;
+    background: cornflowerblue;
     border-radius: 8px;
     padding: 0 24px;
     font-size: 24px;
@@ -94,7 +94,7 @@ textarea:focus {
 
 nav {
     height: 72px;
-    background: #202125;
+    background: #3b5998;
     width: 100%;
     margin: 0;
     position: fixed;
@@ -134,10 +134,10 @@ nav ul {
 #logo-img {
     display: flex;
     height: 100%;
-    background: #111;
+    background: cornflowerblue;
     padding: 0 32px;
     align-items: center;
-    color: white;
+    color: lavenderblush;
     transition: 0.4s;
 }
 
